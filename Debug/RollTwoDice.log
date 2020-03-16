@@ -1,0 +1,3 @@
+﻿  RollTwoDice.cpp
+D:\School and Classes\Southern New Hampshire U\IT 312 - Software Development C++\RollTwoDice\RollTwoDice.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  RollTwoDice.vcxproj -> D:\School and Classes\Southern New Hampshire U\IT 312 - Software Development C++\RollTwoDice\Debug\RollTwoDice.exe
